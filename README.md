@@ -1,1 +1,1 @@
-It's clone of TheStack game for learning Unity3D game engine
+It's a clone of TheStack game for learning Unity3D game engine
